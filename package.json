@@ -1,0 +1,24 @@
+{
+  "name": "backend-learning-2",
+  "version": "1.0.0",
+  "description": "a backend at utube",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "homepage": "https://github.com/io303/Backend-learning-2#readme",
+  "bugs": {
+    "url": "https://github.com/io303/Backend-learning-2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/io303/Backend-learning-2.git"
+  },
+  "license": "ISC",
+  "author": "rahul",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
